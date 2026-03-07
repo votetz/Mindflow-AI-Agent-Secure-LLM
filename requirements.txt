@@ -1,0 +1,8 @@
+aiogram~=3.26.0
+APScheduler~=3.11.2
+python-dotenv~=1.2.2
+aiohttp~=3.13.3
+feedparser~=6.0.12
+beautifulsoup4~=4.14.3
+openai~=2.26.0
+aiosqlite~=0.22.1
